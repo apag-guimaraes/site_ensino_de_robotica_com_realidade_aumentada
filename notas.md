@@ -15,5 +15,5 @@ Scrum: Disponível em: [https://scrumguides.org/](https://scrumguides.org/). Ace
 -> Página web do projeto:  
 [https://cristovaoliberato.github.io/siteprojetopesquisa/](https://cristovaoliberato.github.io/siteprojetopesquisa/)  
 e  
-[https://apag-guimaraes.github.io/site_ensino_de_robotica_com_realidade_aumentada/](https://apag-guimaraes.github.io/site_ensino_de_robotica_com_realidade_aumentada/).  
+[https://apag-guimaraes.github.io/site_ensino_de_robotica_com_realidade_aumentada/]. 
 Acesso em: 9 ago. 2025.
