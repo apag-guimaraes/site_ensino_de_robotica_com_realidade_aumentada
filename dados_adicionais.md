@@ -1,4 +1,5 @@
 Notas informativas:
+
 -> Os modelos tridimensionais de terceiros adquiridos em repositórios online são modelos livres e gratuitos sob licença CC BY 4.0.
 
 -> Foram usadas as versões gratuitas dos programas citados:
@@ -11,7 +12,7 @@ Blender: Disponível em: [https://www.blender.org/download/](https://www.blender
 Trello: Disponível em: [https://trello.com/](https://trello.com/). Acesso em: 9 ago. 2025.
 Scrum: Disponível em: [https://scrumguides.org/](https://scrumguides.org/). Acesso em: 9 ago. 2025.
 
-Página web do projeto:  
+-> Página web do projeto:  
 [https://cristovaoliberato.github.io/siteprojetopesquisa/](https://cristovaoliberato.github.io/siteprojetopesquisa/)  
 e  
 [https://apag-guimaraes.github.io/site_ensino_de_robotica_com_realidade_aumentada/](https://apag-guimaraes.github.io/site_ensino_de_robotica_com_realidade_aumentada/).  
